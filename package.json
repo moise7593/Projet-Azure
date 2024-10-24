@@ -1,11 +1,11 @@
 {
-"name": "projet-azure",
+"name": "hello-world-app",
 "version": "1.0.0",
-"description": "A simple Projet Node.js app",
+"description": "A simple Hello World Node.js app",
 "main": "index.js",
 "scripts": {
 "start": "node index.js"
 },
-"author": "Fernandez Moise",
+"author": "fernandez",
 "license": "ISC"
 }
