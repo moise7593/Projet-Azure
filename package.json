@@ -2,7 +2,7 @@
 "name": "hello-world-app",
 "version": "1.0.0",
 "description": "A simple Hello World Node.js app",
-"main": "index.js",
+"main": "react.js",
 "scripts": {
 "start": "node index.js"
 },
